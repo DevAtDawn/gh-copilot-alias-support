@@ -1,4 +1,7 @@
 # gh-copilot-Fish-Alias-Support
 
-gh-copilot fix for issues "Support Alias for Fish Shell" enhancement #https://github.com/github/gh-copilot/issues/41 https://github.com/github/gh-copilot/issues/44 
+"Support Alias for Fish Shell" enhancement 
+gh-copilot fix for issues:
+https://github.com/github/gh-copilot/issues/41
+https://github.com/github/gh-copilot/issues/44 
 
