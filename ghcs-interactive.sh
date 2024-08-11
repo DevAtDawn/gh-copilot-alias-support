@@ -22,3 +22,18 @@ case "$current_shell" in
         exit 1
         ;;
 esac
+
+
+
+# fish
+# function ghcs_interactive_option 
+#     functions ghcs | sed "s/ \-t \"\$TARGET\"//" | source
+# end
+
+# bash
+#  eval "$(declare -f ghcs  | sed 's/ -t "\$TARGET"//')"
+
+#zsh
+# function ghcs_interactive_option {
+    # functions ghcs | sed 's/ -t "\$TARGET"//' | source /dev/stdin
+# }
